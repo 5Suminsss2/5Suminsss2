@@ -36,7 +36,8 @@
   <h3>:phone: Contact</h3>
   <p>
     <a href="https://github.com/5Suminsss2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://ksumin-dev.tistory.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/tistory-%FE5000.svg?&style=for-the-badge&logo=pencil&logoColor=white" /></a>
+    <a href="https://ksumin-dev.tistory.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/tistory-FF7143.svg?&style=for-the-badge&logo=pencil&logoColor=white" /></a>
+    <a href="mailto:"sumin.kim.dev@google.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-4285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
   
 </div>
