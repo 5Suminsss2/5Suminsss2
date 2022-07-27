@@ -12,23 +12,23 @@
     <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+   
   </p>
   
   <br>
   
   <h3>:memo: Latest Post</h3>
   <li>
-    <a href="https://ksumin-dev.tistory.com/77"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [Git] Git을 배워보자! </b></a><br/>
-    <i>About Git Basic commands with Cmder and Sourcetree</i>
+    <a href="https://ksumin-dev.tistory.com/123"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] useEffect와 axios를 같이 사용할 때 무한루프 에러 해결하기 </b></a><br/>
+    <i>About the infinite loop error in React(useEffect and axios) </i>
   </li>
   <li>
-    <a href="https://ksumin-dev.tistory.com/69?category=1031634"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [머신러닝&딥러닝] 확률적 경사 하강법  </b></a><br/>
-    <i>About Machine learning and Deep learning : SGD</i>
+    <a href="https://ksumin-dev.tistory.com/116"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [Redux] 리덕스 기초 정리  </b></a><br/>
+    <i>About Redux</i>
   </li>
   <li>
-    <a href="https://ksumin-dev.tistory.com/68?category=1031634"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [머신러닝&딥러닝] 로지스틱 회귀 </b></a><br/>
-    <i>About Machine learning and Deep learning : Logistic regression</i>
+    <a href="https://ksumin-dev.tistory.com/119"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 리액트 새로운 정보 정리 </b></a><br/>
+    <i>About React</i>
   </li>
   
   <br>
