@@ -42,6 +42,4 @@
   
   <br>
   
-  <h3>:bulb: Resume</h3>
-  <a href="https://blossom-river-c97.notion.site/b9fb0aef36b74658938dad8272c68184" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-F50057.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a> 
 </div>
