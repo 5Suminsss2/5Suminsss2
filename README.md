@@ -19,15 +19,15 @@
   
   <h3>:memo: Latest Post</h3>
   <li>
-    <a href="https://ksumin-dev.tistory.com/123"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] useEffect와 axios를 같이 사용할 때 무한루프 에러 해결하기 </b></a><br/>
+    <a href="https://ksumin-dev.tistory.com/136"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 리액트에서 onClick이 자동으로 동작하는 에러 해결 </b></a><br/>
     <i>About the infinite loop error in React(useEffect and axios) </i>
   </li>
   <li>
-    <a href="https://ksumin-dev.tistory.com/116"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [Redux] 리덕스 기초 정리  </b></a><br/>
+    <a href="https://ksumin-dev.tistory.com/135"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 백엔드 서버 없이 DB 연결하기  </b></a><br/>
     <i>About Redux</i>
   </li>
   <li>
-    <a href="https://ksumin-dev.tistory.com/119"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 리액트 새로운 정보 정리 </b></a><br/>
+    <a href="https://ksumin-dev.tistory.com/134"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [Styled-Component] Styled-Component에서 구글 폰트 사용하기 </b></a><br/>
     <i>About React</i>
   </li>
   
