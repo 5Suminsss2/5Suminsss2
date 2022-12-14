@@ -19,7 +19,7 @@
   
   <h3>:memo: Latest Post</h3>
   <li>
-    <a href="https://ksumin-dev.tistory.com/136"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 리액트에서 onClick이 자동으로 동작하는 에러 해결 </b></a><br/>
+    <a href="https://ksumin-dev.tistory.com/136"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 리액트에서 onClick이 자동으로 동작하는 에러 해결</b></a><br/>
   </li>
   <li>
     <a href="https://ksumin-dev.tistory.com/135"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> [React] 백엔드 서버 없이 DB 연결하기  </b></a><br/>
