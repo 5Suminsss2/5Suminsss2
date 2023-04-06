@@ -2,7 +2,7 @@
 
 <div align="">
   <br>
-  <p>I'm Kim Sumin, Frontend developer.:blush:💻</p>
+  <p>I'm Kim Sumin, Frontend developer.:blush:💻 </p>
 
   <h3>:fire: Skills</h3>
   <p>
