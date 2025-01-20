@@ -29,4 +29,3 @@
   
 </div>
 
-[![Memome Profile](https://readme.memome.be/v1/tail)](https://memome.be/tail)
